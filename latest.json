@@ -1,0 +1,13 @@
+{
+  "version": "2.1.0",
+  "build": 3,
+  "tag": "v2.1.0+3",
+  "published_at": "2026-11-21T06:56:34Z",
+  "notes": "Release v2.1.0+3",
+  "assets": {
+    "windows_ailyans": "https://github.com/ahzam-shahnil/bytewave-releases/releases/download/v2.1.0+3/ailyans-school-manager-windows.zip",
+    "windows_clean": "https://github.com/ahzam-shahnil/bytewave-releases/releases/download/v2.1.0+3/bytewave-school-manager-windows.zip",
+    "android_ailyans": "https://github.com/ahzam-shahnil/bytewave-releases/releases/download/v2.1.0+3/ailyans-school-manager.apk",
+    "android_clean": "https://github.com/ahzam-shahnil/bytewave-releases/releases/download/v2.1.0+3/bytewave-school-manager.apk"
+  }
+}
