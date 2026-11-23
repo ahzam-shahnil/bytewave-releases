@@ -1,11 +1,11 @@
 {
-  "version": "2.2.2",
-  "build": 6,
-  "tag": "v2.2.2+6",
-  "published_at": "2026-11-22T17:52:26Z",
-  "notes": "Release v2.2.2+6",
+  "version": "2.2.3",
+  "build": 7,
+  "tag": "v2.2.3+7",
+  "published_at": "2026-11-23T11:11:45Z",
+  "notes": "Release v2.2.3+7",
   "assets": {
-    "windows_clean": "https://github.com/ahzam-shahnil/bytewave-releases/releases/download/v2.2.2+6/bytewave-school-manager-windows.zip",
-    "android_clean": "https://github.com/ahzam-shahnil/bytewave-releases/releases/download/v2.2.2+6/bytewave-school-manager.apk"
+    "windows_clean": "https://github.com/ahzam-shahnil/bytewave-releases/releases/download/v2.2.3+7/bytewave-school-manager-windows.zip",
+    "android_clean": "https://github.com/ahzam-shahnil/bytewave-releases/releases/download/v2.2.3+7/bytewave-school-manager.apk"
   }
 }
